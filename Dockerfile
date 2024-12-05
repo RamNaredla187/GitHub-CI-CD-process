@@ -1,3 +1,4 @@
+# image contain mysql,pgvector,apache age
 From apache/age
 # Install necessary packages
 RUN apt-get update && apt-get install -y \
