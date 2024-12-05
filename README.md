@@ -1,4 +1,4 @@
-# Image contain mysql-pgvector-apache age databases
+# Docker Image contain postgres-pgvector-apache age databases
 - This GitHub Actions workflow file automates the process of building and pushing a Docker image to Docker Hub when a change is pushed to the main branch of the repository. Let's break down the code step by step:
 ## Full Workflow Explanation
 ```bash
